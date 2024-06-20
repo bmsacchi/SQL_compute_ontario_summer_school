@@ -40,5 +40,5 @@ DELETE FROM dog_breeds WHERE size=4;
 
 ### using workbench to create .sql script
 myfirstscript.sql
-- to use:
+To use, open sql from working directory with script (or specify appropriate path)
 SOURCE myfirstscript.sql
